@@ -97,9 +97,16 @@ impotance of WBS:
 - Tracking: Helps track progress and identify any deviations from the plan.
 - Communication: Enhances communication among team members and stakeholders.
 - 
-##
+##7.	What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits of a Detailed Project Schedule
+Clarity: Clear roadmap and responsibilities.
+Time Management: Efficient time allocation.
+Resource Allocation: Optimal use of resources.
+Risk Management: Early identification and mitigation.
+Progress Tracking: Regular monitoring of progress.
+Communication: Transparent stakeholder updates
 
-
+Gantt charts assist project managers by providing a visual timeline of the project, making it easy to see task dependencies and progress. They help break down the project into manageable tasks with start and end dates, highlight key milestones and deadlines, and allow for efficient resource management by identifying potential conflicts. Additionally, Gantt charts facilitate quick adjustments to the schedule when changes occur, maintaining alignment and ensuring smooth project execution.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 Mental health is a significant concern for many individuals, and I Will be adressing this by designing a software that will provide mental health support and resources. 
